@@ -6,7 +6,7 @@ on:
   pull_request:
     branches: [ "main" ]
 env:
-  AZURE_FUNCTIONAPP_NAME: daltonBattleApp 
+  AZURE_FUNCTIONAPP_NAME: my-function-app-dalton 
   AZURE_FUNCTIONAPP_PACKAGE_PATH: '.'    
   DOTNET_VERSION: '3.1'              
   
